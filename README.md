@@ -94,7 +94,7 @@ A classic Snake game recreated using Java and LibGDX framework, demonstrating co
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mzngu&theme=radical)
 
 
-## 🤝 Connect with Me
+## 🫱🏻‍🫲🏾 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estimé-n-718252223/)
 
 
