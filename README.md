@@ -8,8 +8,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mzngu&theme=radical)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mzngu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mzngu&theme=react-dark)
