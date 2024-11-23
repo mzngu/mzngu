@@ -11,6 +11,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mzngu&theme=radical)
 
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mzngu&theme=react-dark)
 
