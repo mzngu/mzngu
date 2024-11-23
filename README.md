@@ -1,4 +1,4 @@
-## Hi there I'm NIYUKURI Estimé 👋
+## Hi there I'm NIYUKURI Estimé 👋🏾
 
 🌱 Currently a student at EPITECH Montpellier, pursuing Masters of science(information system architect)   
 💼 **Actively seeking work study opportunities in Full Stack Development**  
