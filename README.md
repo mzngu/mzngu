@@ -1,4 +1,4 @@
-## Hi there 👋 I'm NIYUKURI Estimé
+## Hi there I'm NIYUKURI Estimé 👋
 
 🌱 Currently a student at EPITECH Montpellier, pursuing Masters of science(information system architect)   
 💼 **Actively seeking work study opportunities in Full Stack Development**  
@@ -15,7 +15,7 @@
 
 ## 📂 Projects
 
-### 🌐 Job Board Platform(in developpement)
+### 🌐 Job Board Platform(in development)
 
 A full-stack web application that bridges the gap between job seekers and employers, enabling companies to post opportunities and candidates to find their next role.
 
@@ -32,7 +32,7 @@ A full-stack web application that bridges the gap between job seekers and employ
 - Database: MongoDB
 - Authentication: JWT
 
-### 🎮 Snake Game(in developpement)
+### 🎮 Snake Game(in development)
 
 A classic Snake game recreated using Java and LibGDX framework, demonstrating core game development concepts and object-oriented programming principles.
 
@@ -54,7 +54,7 @@ A classic Snake game recreated using Java and LibGDX framework, demonstrating co
 - Input handling system
 
 
-### 🎮 Bird game(early stage developpement)
+### 🎮 Bird game(early stage development)
 - **Tech stack:**
 - java
 - LibGDX framework
