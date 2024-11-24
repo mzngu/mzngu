@@ -7,7 +7,7 @@
 ⚡ Quick learner and problem-solver with strong attention to detail
 
 ## Current Focus 🎯
-- Building a strong foundation in web development fundamentals and object orientated programming
+- Building a strong foundation in web development fundamentals and object oriented programming
 - Learning modern frameworks and best practices
 - Developing real-world projects to apply my knowledge
 - Collaborating with fellow developers to learn and grow
