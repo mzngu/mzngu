@@ -32,7 +32,7 @@ A full-stack web application that bridges the gap between job seekers and employ
 - Database: MongoDB
 - Authentication: JWT
 
-### 🎮 Snake Game(in development)
+### 🎮 Snake Game
 
 A classic Snake game recreated using Java and LibGDX framework, demonstrating core game development concepts and object-oriented programming principles.
 
