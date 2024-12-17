@@ -27,7 +27,7 @@ A full-stack web application that bridges the gap between job seekers and employ
 - 💼 User profile & resume management
 
 **Tech Stack:**
-- Frontend: HTML,CSS
+- Frontend: HTML,CSS, REACT
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: JWT
