@@ -57,7 +57,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estimé-n-718252223/)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=mzngu&color=blueviolet&style=flat)
-
 
 
